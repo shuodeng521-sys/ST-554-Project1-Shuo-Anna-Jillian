@@ -8,6 +8,7 @@ Please replace “Feedback giver #x” with a group member’s name below and ad
   + You need to add an introduction and markdown narrative of your thought process through the code, as per the project rubric. Feel free to grab the intro from my code, as we're allowed to share this!
   + I recommend adding additional annotation to code block #4 where you replace -200 with NAs and remove to explain those steps
   + Additional annotation should be added to the SLR and MLR MSE loops to explain each line
+  + The MSE in the loops should be average MSE, not sum. This clarification was made on the Slack channel, a totally understandable interpretation of the original rubric!
   + I suggest making a table to compare the SLR to MLR MSE results
   + Though it's not required, it might be interesting to see a scatterplot of the final model's true vs predicted C6H6 data, even though this would just be training data
   + Overall, your code includes all of the required steps and functions. Great job!
