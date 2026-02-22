@@ -21,5 +21,5 @@ A boxplot of C6H6 by season, which helps visualize seasonal differences and supp
 
 - Feedback giver #Anna Giczewska
 1. Overall, this is a clear, well-structured analysis with thoughtful visualizations and interpretation.
-2. You note PT_NMHC has a “perfect” relationship with True_C6H6—worth including the actual correlation value (or a quick R2) so that conclusion is clearly supported.
+2. You note PT_NMHC has a “perfect” relationship with True_C6H6 worth including one quantitative metric so that conclusion is clearly supported.
 3. After dropping rows where PT_CO is NA, it’d be helpful to report how many rows remain.
