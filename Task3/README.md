@@ -14,5 +14,8 @@ Please replace “Feedback giver #x” with a group member’s name below and ad
   + Overall, your code includes all of the required steps and functions. Great job!
 
 
-- Feedback giver #2
-  + item
+- Feedback giver #Anna Giczewska
+  + Overall, this is a clear, well-structured analysis with thoughtful visualizations and interpretation.
+  + Explain the choice of start_day=250. This is an important modeling decision. Adding one sentence on why that cutoff was selected.
+  + Brief note explaining why daily aggregation was chosen (and that results could differ at the hourly scale) would strengthen the justification for your modeling setup.
+  + Since the scatter suggests errors widen at higher benzene values, a simple residual check (residuals vs fitted, or residual histogram) could give an extra information where the model performs best. 
